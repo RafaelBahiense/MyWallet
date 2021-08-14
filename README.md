@@ -1,6 +1,6 @@
 # MyWallet
 
-### Financial management control Web App.
+### Financial management Web App.
 
 <p align="center">
   <img src="https://github.com/RafaelBahiense/MyWallet-Front/blob/main/public/imgs/screenshot.png">
