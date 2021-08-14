@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   <a href="https://pokedex-nine-henna.vercel.app/">Click here</a> to acess the App
+   <a href="https://my-wallet-front-six.vercel.app/">Click here</a> to acess the App
 </p>
 
 ## About
